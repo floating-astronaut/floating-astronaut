@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI systems builder · founder of <a href="https://nuraveda.com">Nuraveda Lab</a></b><br/>
-  I ship production AI — trading, growth automation, and an open agent mesh — and open-source the parts worth sharing.
+  I ship production AI — a prop-firm trading dashboard, an open agent mesh, and growth automation — and open-source the parts worth sharing.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 **[Nuraveda Lab](https://nuraveda.com)** — an independent AI lab with two flagships:
 
-- **[Glitch Executor](https://glitchexecutor.com)** — end-to-end execution platform for algorithmic trading, sports-betting intelligence, and growth automation.
+- **[Glitch Executor](https://glitchexecutor.com)** — a prop-firm trading dashboard: track every challenge (drawdown, targets, daily limits) across all your connected accounts in one view, with a strategy builder and a backtester that's aware of each firm's rule set.
 - **[Mesh Pilot](https://meshpilot.app)** — an open agent mesh: six MIT-licensed specialist agents (voice, SEO, ads, sales, social, UGC) wired through a proprietary orchestration brain.
 
 ### 🧩 Open source & source-available
