@@ -23,6 +23,7 @@
 
 | Project | What it is |
 |---|---|
+| [`vibe-coding-kit`](https://github.com/floating-astronaut/vibe-coding-kit) | **Replace your dev team.** An OS for a coordinated Claude/Codex/Kimi team — docs-first lanes, zero-drift handoffs. Built by its own method · [demo video](https://youtu.be/7udCWIHOzCg) |
 | [`linkedin-ads-mcp`](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
 | [`hydrogen-d2c-starter`](https://github.com/Nuraveda-Labs/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo` |
