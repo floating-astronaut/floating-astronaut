@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI systems builder · founder of <a href="https://nuraveda.com">Nuraveda Lab</a></b><br/>
-  I ship production AI — a prop-firm trading dashboard, an open agent mesh, and growth automation — and open-source the parts worth sharing.
+  I ship production AI — a prop-firm trading dashboard, a Vedic-astrology app, and a lease/contract decoder — and open-source the parts worth sharing.
 </p>
 
 <p align="center">
@@ -14,10 +14,11 @@
 
 ### 🚀 What I'm building
 
-**[Nuraveda Lab](https://nuraveda.com)** — an independent AI lab with two flagships:
+**[Nuraveda Lab](https://nuraveda.com)** — an independent AI lab with three live products:
 
 - **[Glitch Executor](https://glitchexecutor.com)** — a prop-firm trading dashboard: track every challenge (drawdown, targets, daily limits) across all your connected accounts in one view, with a strategy builder and a backtester that's aware of each firm's rule set.
-- **[Mesh Pilot](https://meshpilot.app)** — an open agent mesh: six MIT-licensed specialist agents (voice, SEO, ads, sales, social, UGC) wired through a proprietary orchestration brain.
+- **[Vediq](https://vediqastrology.com)** — a Vedic astrology app: accurate birth charts and personalized daily guidance, grounded in classical jyotish, in a clean mobile experience.
+- **[Clause Lens](https://clauselens.online)** — scan any lease or contract and get a plain-English, statute-grounded read in seconds: the risky clauses, what the law says, and what to ask before you sign.
 
 ### 🧩 Open source & source-available
 
@@ -28,7 +29,7 @@
 | [`hydrogen-d2c-starter`](https://github.com/Nuraveda-Labs/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo` |
 | [`astro-portfolio-template`](https://github.com/floating-astronaut/astro-portfolio-template) | Fork-ready Astro personal-site / portfolio starter |
-| [Mesh Pilot agents](https://github.com/Nuraveda-Labs) | The six open-source AI agents behind Mesh Pilot |
+| [Mesh Pilot agents](https://github.com/Nuraveda-Labs) | Six MIT specialist agents (voice, SEO, ads, sales, social, UGC) — from Mesh Pilot, now archived; the agents stay open |
 
 ### 🛠️ Stack
 
