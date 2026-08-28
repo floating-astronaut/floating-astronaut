@@ -82,14 +82,7 @@
 
 ### 📊 GitHub in motion
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=floating-astronaut&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floating-astronaut&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=c9d1d9&langs_count=10&count_private=true" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=floating-astronaut&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
-</p>
+<p align="center"><sub>🐍 A snake eats my contribution graph — a static SVG regenerated every 12h by a GitHub Action in this repo. No third-party services, so it always renders.</sub></p>
 
 <p align="center">
   <picture>
