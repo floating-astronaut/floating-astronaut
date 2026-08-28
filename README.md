@@ -84,11 +84,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=floating-astronaut&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=floating-astronaut&theme=transparent&hide_border=true&border_radius=8&stroke=7c3aed&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=floating-astronaut&bg_color=0a0a0f&color=00ff88&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floating-astronaut&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=c9d1d9&langs_count=10&count_private=true" alt="top langs" />
 </p>
 
 <p align="center">
