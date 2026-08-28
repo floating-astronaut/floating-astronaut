@@ -99,11 +99,11 @@
 | Project | What it is |
 |---|---|
 | [`vibe-coding-kit`](https://github.com/floating-astronaut/vibe-coding-kit) | **Replace your dev team.** An OS for a coordinated Claude/Codex/Kimi team — docs-first lanes, zero-drift handoffs. Built by its own method · [demo video](https://youtu.be/7udCWIHOzCg) |
-| [`linkedin-ads-mcp`](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · MIT · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
-| [`hydrogen-d2c-starter`](https://github.com/Nuraveda-Labs/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter |
+| [`linkedin-ads-mcp`](https://github.com/floating-astronaut/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · MIT · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
+| [`hydrogen-d2c-starter`](https://github.com/floating-astronaut/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo` |
 | [`astro-portfolio-template`](https://github.com/floating-astronaut/astro-portfolio-template) | Fork-ready Astro personal-site / portfolio starter |
-| [Mesh Pilot agents](https://github.com/Nuraveda-Labs) | Six MIT specialist agents (voice, SEO, ads, sales, social, UGC) — from Mesh Pilot, now archived; the agents stay open |
+| [Mesh Pilot agents](https://github.com/floating-astronaut?tab=repositories&q=agent) | Six MIT specialist agents (voice, SEO, ads, sales, social, UGC) — from Mesh Pilot, now archived; the agents stay open |
 
 ---
 
