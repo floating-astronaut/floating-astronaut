@@ -99,11 +99,13 @@
 | Project | What it is |
 |---|---|
 | [`vibe-coding-kit`](https://github.com/floating-astronaut/vibe-coding-kit) | **Replace your dev team.** An OS for a coordinated Claude/Codex/Kimi team — docs-first lanes, zero-drift handoffs. Built by its own method · [demo video](https://youtu.be/7udCWIHOzCg) |
-| [`linkedin-ads-mcp`](https://github.com/floating-astronaut/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · MIT · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
+| [`MeshPilot`](https://github.com/Nuraveda-Labs/MeshPilot-AGI) | **A self-hostable AI marketing agent that runs N brands, each sealed from the others.** Per-brand `<PREFIX>_<KEY>` credentials with no globals, a deterministic policy gate, outward capabilities off by default · AGPL-3.0 |
+| [`linkedin-ads-mcp`](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · MIT · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
+| [`medusa-nextjs-ecom-kit`](https://github.com/floating-astronaut/medusa-nextjs-ecom-kit) | E-commerce starter — Next.js 16 storefront on a Medusa 2.x backend |
 | [`hydrogen-d2c-starter`](https://github.com/floating-astronaut/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo` |
 | [`astro-portfolio-template`](https://github.com/floating-astronaut/astro-portfolio-template) | Fork-ready Astro personal-site / portfolio starter |
-| [Mesh Pilot agents](https://github.com/floating-astronaut?tab=repositories&q=agent) | Six MIT specialist agents (voice, SEO, ads, sales, social, UGC) — from Mesh Pilot, now archived; the agents stay open |
+| [Specialist agents](https://github.com/orgs/Nuraveda-Labs/repositories?q=agent) | Six MIT agents — voice, SEO, ads, sales, social, UGC — plus [`echo`](https://github.com/Nuraveda-Labs/echo) and [`shopify-agentic-seo-app`](https://github.com/Nuraveda-Labs/shopify-agentic-seo-app) |
 
 ---
 
