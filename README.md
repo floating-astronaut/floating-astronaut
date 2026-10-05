@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Tejas+%F0%9F%91%8B;AI+systems+builder+%C2%B7+founder+of+Nuraveda+Lab;I+ship+production+AI+%E2%80%94+trading%2C+astrology%2C+legal;Open+where+it+sharpens%2C+proprietary+where+it's+the+moat" alt="typing header">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Tejas+%F0%9F%91%8B;AI+systems+builder+%C2%B7+founder+of+Nuraveda+Lab;Five+live+products+%E2%80%94+trading%2C+marketing%2C+AI+trust%2C+legal%2C+voice;Open+where+it+sharpens%2C+proprietary+where+it's+the+moat" alt="typing header">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>I ship production AI and open-source the parts worth sharing.</b><br/>
-  <sub>Independent AI lab out of Toronto 🍁 — three live products, real users, real infra.</sub>
+  <sub>Independent AI lab out of Toronto 🍁 — five live products, real users, real infra.</sub>
 </p>
 
 ---
@@ -23,19 +23,32 @@
   <tr>
     <td width="33%" valign="top">
       <h4>📈 <a href="https://glitchexecutor.com">Glitch Executor</a></h4>
-      <sub>Prop-firm trading dashboard. Track every challenge — drawdown, targets, daily limits — across all connected accounts, with a rule-aware strategy builder + backtester.</sub><br/><br/>
+      <sub>The trading operating system. Watch every prop-firm and personal account against your firm's rules — live alerts before a limit breaks, payout tracking, rule-aware backtesting, a trade journal, and an AI Coach that knows your account. Web + mobile.</sub><br/><br/>
       <a href="https://glitchexecutor.com"><img src="https://img.shields.io/badge/live-glitchexecutor.com-00ff88?style=flat-square&labelColor=0a0a0f"></a>
     </td>
     <td width="33%" valign="top">
-      <h4>🔮 <a href="https://vediqastrology.com">Vediq</a></h4>
-      <sub>Vedic astrology app. Accurate birth charts and personalized daily guidance, grounded in classical jyotish, in a clean mobile experience.</sub><br/><br/>
-      <a href="https://vediqastrology.com"><img src="https://img.shields.io/badge/live-vediqastrology.com-7c3aed?style=flat-square&labelColor=0a0a0f"></a>
+      <h4>🛰️ <a href="https://meshpilot.app">Mesh Pilot</a></h4>
+      <sub>An autonomous digital-marketing agent that runs 24/7 in the cloud — per-brand memory, a deterministic policy gate, and a curator that turns results into lessons. Creates, decides, and ships content for every brand it runs.</sub><br/><br/>
+      <a href="https://meshpilot.app"><img src="https://img.shields.io/badge/live-meshpilot.app-7c3aed?style=flat-square&labelColor=0a0a0f"></a>
     </td>
     <td width="33%" valign="top">
+      <h4>🧾 <a href="https://qedproof.site">QED Proof</a></h4>
+      <sub>Credit scores for AI agents, built on proof. Agents report their own success; QED Proof reads the destination itself and issues a signed receipt anyone can verify without trusting us. Open protocol + SDKs.</sub><br/><br/>
+      <a href="https://qedproof.site"><img src="https://img.shields.io/badge/live-qedproof.site-f59e0b?style=flat-square&labelColor=0a0a0f"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h4>📜 <a href="https://clauselens.online">Clause Lens</a></h4>
-      <sub>AI lease/contract decoder. Scan any contract and get a plain-English, statute-grounded read in seconds: the risky clauses, what the law says, what to ask before you sign.</sub><br/><br/>
+      <sub>Understand what you sign, before you sign it. A lease, freelance contract, or job offer → a plain-English, statute-grounded read: the risky clauses, what the law says, what to ask. iOS + web.</sub><br/><br/>
       <a href="https://clauselens.online"><img src="https://img.shields.io/badge/live-clauselens.online-2563eb?style=flat-square&labelColor=0a0a0f"></a>
     </td>
+    <td width="33%" valign="top">
+      <h4>📞 <a href="https://ringlyx.site">Ringlyx</a></h4>
+      <sub>An AI front desk for small businesses. Answers the phone, captures every request, and texts the owner when a call needs them — set up and run for you.</sub><br/><br/>
+      <a href="https://ringlyx.site"><img src="https://img.shields.io/badge/live-ringlyx.site-ef4444?style=flat-square&labelColor=0a0a0f"></a>
+    </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
@@ -66,7 +79,8 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=livekit&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
 
 <b>Markets &amp; Commerce</b><br/>
@@ -99,13 +113,14 @@
 | Project | What it is |
 |---|---|
 | [`vibe-coding-kit`](https://github.com/floating-astronaut/vibe-coding-kit) | **Replace your dev team.** An OS for a coordinated Claude/Codex/Kimi team — docs-first lanes, zero-drift handoffs. Built by its own method · [demo video](https://youtu.be/7udCWIHOzCg) |
-| [`MeshPilot`](https://github.com/Nuraveda-Labs/MeshPilot-AGI) | **A self-hostable AI marketing agent that runs N brands, each sealed from the others.** Per-brand `<PREFIX>_<KEY>` credentials with no globals, a deterministic policy gate, outward capabilities off by default · AGPL-3.0 |
-| [`linkedin-ads-mcp`](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · MIT · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
+| [`qed-proof-core`](https://github.com/Nuraveda/qed-proof-core) | **Proof of Agent Work** — an open protocol for verifying what AI agents claim they did, with signed, publicly checkable receipts · Apache-2.0 · SDKs: [`pip install qed-proof`](https://pypi.org/project/qed-proof/) · [`@qed-proof/sdk`](https://www.npmjs.com/package/@qed-proof/sdk) · [MCP server](https://github.com/Nuraveda/qed-proof-mcp) · [docs](https://docs.qedproof.site) |
+| [`MeshPilot`](https://github.com/Nuraveda/MeshPilot-AGI) | **A self-hostable AI marketing agent that runs N brands, each sealed from the others.** Per-brand `<PREFIX>_<KEY>` credentials with no globals, a deterministic policy gate, outward capabilities off by default · AGPL-3.0 |
+| [`linkedin-ads-mcp`](https://github.com/Nuraveda/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API · MIT · [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) |
 | [`medusa-nextjs-ecom-kit`](https://github.com/floating-astronaut/medusa-nextjs-ecom-kit) | E-commerce starter — Next.js 16 storefront on a Medusa 2.x backend |
 | [`hydrogen-d2c-starter`](https://github.com/floating-astronaut/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo` |
 | [`astro-portfolio-template`](https://github.com/floating-astronaut/astro-portfolio-template) | Fork-ready Astro personal-site / portfolio starter |
-| [Specialist agents](https://github.com/orgs/Nuraveda-Labs/repositories?q=agent) | Six MIT agents — voice, SEO, ads, sales, social, UGC — plus [`echo`](https://github.com/Nuraveda-Labs/echo) and [`shopify-agentic-seo-app`](https://github.com/Nuraveda-Labs/shopify-agentic-seo-app) |
+| [Specialist agents](https://github.com/orgs/Nuraveda/repositories?q=agent) | Six MIT agents — voice, SEO, ads, sales, social, UGC — plus [`echo`](https://github.com/Nuraveda/echo) and [`shopify-agentic-seo-app`](https://github.com/Nuraveda/shopify-agentic-seo-app) |
 
 ---
 
