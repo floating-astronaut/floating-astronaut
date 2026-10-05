@@ -128,6 +128,6 @@
 
 - 🌐 [nuraveda.com](https://nuraveda.com) · [tejaskaranagrawal.com](https://tejaskaranagrawal.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejas-karan-agrawal)
-- ✉️ help.nuraveda@gmail.com
+- ✉️ tejaskagrawalgwl@gmail.com
 
 <p align="center"><sub>Building in the open where it sharpens the field, proprietary where it's the moat.</sub></p>
