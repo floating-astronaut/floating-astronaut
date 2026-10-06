@@ -126,7 +126,7 @@
 
 ### 📬 Reach me
 
-- 🌐 [nuraveda.com](https://nuraveda.com) · [tejaskaranagrawal.com](https://tejaskaranagrawal.com)
+- 🌐 [tejaskaranagrawal.com](https://tejaskaranagrawal.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejas-karan-agrawal)
 - ✉️ tejaskagrawalgwl@gmail.com
 
