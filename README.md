@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Tejas+%F0%9F%91%8B;AI+systems+builder+%C2%B7+solo+founder+in+Toronto;Five+live+products+%E2%80%94+trading%2C+marketing%2C+AI+trust%2C+legal%2C+voice;Open+where+it+sharpens%2C+proprietary+where+it's+the+moat" alt="typing header">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3200&pause=1200&color=00FF88&center=true&vCenter=true&width=820&height=60&lines=Hi%2C+I%27m+Tejas+%F0%9F%91%8B;AI+systems+builder+%C2%B7+solo+founder+in+Toronto;Shipping+five+live+AI+products;Open+where+it+sharpens%2C+closed+where+it%27s+the+moat" alt="typing header">
 </p>
 
 <p align="center">
