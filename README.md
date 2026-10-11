@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nuraveda.com"><img src="https://img.shields.io/badge/Nuraveda_Lab-nuraveda.com-7c3aed?style=for-the-badge&labelColor=0a0a0f" alt="Nuraveda Lab"></a>
+  <a href="https://lab.nuraveda.com"><img src="https://img.shields.io/badge/Nuraveda_Lab-lab.nuraveda.com-7c3aed?style=for-the-badge&labelColor=0a0a0f" alt="Nuraveda Lab"></a>
   <a href="https://tejaskaranagrawal.com"><img src="https://img.shields.io/badge/Portfolio-tejaskaranagrawal.com-00ff88?style=for-the-badge&labelColor=0a0a0f" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/tejas-karan-agrawal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=floating-astronaut&style=for-the-badge&color=00ff88&labelColor=0a0a0f&label=profile+views" alt="profile views">
